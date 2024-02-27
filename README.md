@@ -1,7 +1,7 @@
 # The-Recipe-App
 RecipeBook is a web application that allows users to browse, search, and save their favorite recipes. It provides a user-friendly interface for managing recipes and ingredients.
 
-Key Features:
+# #Key Features:
 
 Recipe Listing: The app displays a collection of recipes on the homepage, showcasing images and brief descriptions. Users can scroll through the list to discover recipes.
 
@@ -15,7 +15,7 @@ Add and Edit Recipes: Authenticated users have the ability to add their own reci
 
 Responsive Design: The app is designed to be responsive and mobile-friendly, ensuring optimal viewing and usability across devices of various screen sizes, including desktops, tablets, and smartphones.
 
-Technologies Used:
+# #Technologies Used:
 
 HTML: Used for structuring the content of web pages, including elements like headings, paragraphs, lists, and forms.
 
@@ -23,7 +23,7 @@ CSS: Used for styling the layout and appearance of the web pages, including font
 
 JavaScript: Used for adding interactivity and dynamic functionality to the web pages, such as handling user inputs, fetching data from a server, and updating the UI in real-time.
 
-Additional Features (Optional):
+# #Additional Features (Optional):
 
 Recipe Categories: Implement categories or tags to organize recipes into different types (e.g., breakfast, lunch, dinner, dessert).
 Recipe Sharing: Allow users to share recipes via social media or email.
