@@ -2,7 +2,11 @@
 Recipe App is a web application that allows users to browse, search, and save their favorite recipes. It provides a user-friendly interface for managing recipes and ingredients.
 
 # #Key Features: ![Screenshot (829)](https://github.com/PrajjavalSrivastava/The-Recipe-App/assets/83862069/71bc10d9-a8ed-4bf7-84cb-b700ff51331e)
+![2 0 TRA](https://github.com/PrajjavalSrivastava/The-Recipe-App/assets/83862069/2d2daf14-664d-4e9f-846a-2a5d7f6108c2)
 
+![3 0TRA](https://github.com/PrajjavalSrivastava/The-Recipe-App/assets/83862069/1c9278ac-44f1-4efb-bfb2-5384f0778832)
+
+![4 0 TRA](https://github.com/PrajjavalSrivastava/The-Recipe-App/assets/83862069/56bff749-63ba-4922-a95e-5e4b871d4156)
 
 Recipe Listing: The app displays a collection of recipes on the homepage, showcasing images and brief descriptions. Users can scroll through the list to discover recipes.
 
